@@ -1,4 +1,4 @@
-# OPERATION-ANALYTICS-AND-INVESTIGATING-METRIC-SPIKE
+# Operation-Analytics-And-Investigating-Metric-Spike
 # PROJECT DESCRIPTION
 In this Operation Analytics project, I, as a Data Analyst Lead at a company like Microsoft, will conduct a thorough analysis of the company's end-to-end operations. By collaborating closely with teams such as operations, support, and marketing, I will leverage their collected data to identify areas for improvement and provide valuable insights.
 This analysis is crucial for predicting the company's overall growth or decline, leading to better automation, improved collaboration among cross-functional teams, and more efficient workflows.
